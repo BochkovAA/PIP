@@ -14563,7 +14563,7 @@ body :focus:not(.focus-visible) {
 .nav-link.active {
     color: #4f53f6 !important;
 }
-.main (max-device-width: 850px) {
+.main {
     display: flex;
     align-items: center;
     justify-content: center;
