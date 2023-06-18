@@ -14546,6 +14546,11 @@ body :focus:not(.focus-visible) {
         font-size: 8rem !important;
     }
 }
+@media (max-width: 850px) {
+    .main {
+        background-image: none;
+    }
+}
 .nav-link {
     font-weight: 300;
     font-size: 0.875rem;
